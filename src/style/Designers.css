@@ -1,0 +1,37 @@
+
+
+.designers-contenar{
+    display: flex;
+    margin: 80px 180px;
+    align-items: center;
+    
+}
+
+.designers-img{
+    height: 600px;
+}
+
+.designers-text{
+    margin: 0 50px;
+}
+.designers-text h5{
+    color: rgb(136, 99, 18);
+}
+.designers-text h1{
+    color: rgb(28, 7, 58);
+    font-style: italic;
+}
+.designers-text p{
+    font-size: 20px;
+        color: rgb(25, 29, 66);
+}
+
+.designers-text-p{
+    display: flex;
+}
+.designers-text-p p{
+    font-size: 20px;
+    color: rgb(25, 29, 66);
+}
+
+

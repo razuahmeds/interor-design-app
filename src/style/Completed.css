@@ -1,0 +1,46 @@
+
+.completed{
+    background-color: rgba(171, 190, 190, 0.219);
+    width: 100vw;
+    height: 100vh;
+}
+
+.completed-contenr{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 25px;
+    margin-right: 50px;
+    padding: 80px 0;
+
+}
+
+.completed-contenr-text {
+    width: 500px;
+}
+.completed-contenr-text h1{
+    font-style: italic;
+    font-size: 55px;
+    color: #1f1b46;
+}
+.completed-contenr-text h5{
+    font-style: italic;
+    color: #ff9d00;
+}
+.completed-contenr-text p{
+    font-size: 20px;
+    color: #1f1b46;
+}
+
+
+.completed-contenr-btn{
+    padding: 7px 10px;
+    font-size: 20px;
+    color: #1f1b46;
+}
+
+
+.completed-contenr-img{
+    height: 450px;
+    padding-left: 50px;
+}
